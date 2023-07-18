@@ -1,7 +1,7 @@
 {
   "name": "readnite",
   "version": "0.1.0",
-  "homepage": "https:github.io/EliasaphOjoh/readnite",
+  "homepage": "https://eliasaphojoh.github.io/readnite/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
